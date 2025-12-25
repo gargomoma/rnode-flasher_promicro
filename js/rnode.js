@@ -843,6 +843,9 @@ class ROM {
     static MODEL_16       = 0x16;
     static MODEL_17       = 0x17;
 
+    static PRODUCT_PROMICRO  = 0xF2;
+    static MODEL_FA      = 0xFA;
+
     static PRODUCT_HMBRW  = 0xF0
     static MODEL_FF       = 0xFF
     static MODEL_FE       = 0xFE
